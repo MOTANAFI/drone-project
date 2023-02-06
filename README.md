@@ -1,4 +1,4 @@
-# cod614166b5c54bb6bd7f4e65
+
 <img src="./assets/drone-project.png" alt="drone project">
 
 Quick start:
